@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # ignore torch/etc caches
-/data
+data/
 
 # C extensions
 *.so
